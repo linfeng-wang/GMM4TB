@@ -65,7 +65,7 @@ Here a input the for of the example file can be used `Executable/gmm_model_tbp/c
 in the form of:
 
 | SNP_Name | Alt allele Fraction |
-|---|---|---|
+|---|---|
 | rs1001 | 0.25 |
 | rs1001 | 0.25 |
 | rs1002 | 0.32 |
