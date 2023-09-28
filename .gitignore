@@ -1,0 +1,11 @@
+*.tex
+*.cram
+# *.json
+# *.png
+*.fastq
+*.fastq.gz
+# *.csv
+# *.txt
+# *.vcf.gz
+# *.vcf.gz.tbi
+# find . -type f -size +99M

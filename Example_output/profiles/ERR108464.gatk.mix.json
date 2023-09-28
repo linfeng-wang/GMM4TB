@@ -1,0 +1,74 @@
+{
+  "lineage": [
+    {
+      "lin": "lineage4.2.1",
+      "tb_pred": 0.8405036726128017,
+      "gmm_pred": 0.784395212709776,
+      "gmm_UB": 0.8015347326074809,
+      "gmm_LB": 0.7672556928120711,
+      "DR_pred": [
+        {
+          "prediction_confidence": 0.9999999994782871,
+          "info": {
+            "chrom": "Chromosome",
+            "genome_pos": 781687,
+            "ref": "A",
+            "alt": "G",
+            "freq": 0.8608695652173913,
+            "feature_id": "CCP43425",
+            "type": "missense_variant",
+            "nucleotide_change": "c.128A>G",
+            "protein_change": "p.Lys43Arg",
+            "annotation": [],
+            "alternate_consequences": [],
+            "change": "p.Lys43Arg",
+            "locus_tag": "Rv0682",
+            "gene": "rpsL",
+            "drugs": [
+              {
+                "type": "drug",
+                "drug": "streptomycin",
+                "confers": "resistance"
+              }
+            ]
+          }
+        },
+        {
+          "prediction_confidence": 0.9999999963568706,
+          "info": {
+            "chrom": "Chromosome",
+            "genome_pos": 2155168,
+            "ref": "C",
+            "alt": "G",
+            "freq": 0.8902439024390244,
+            "feature_id": "CCP44675",
+            "type": "missense_variant",
+            "nucleotide_change": "c.944G>C",
+            "protein_change": "p.Ser315Thr",
+            "annotation": [],
+            "alternate_consequences": [],
+            "change": "p.Ser315Thr",
+            "locus_tag": "Rv1908c",
+            "gene": "katG",
+            "drugs": [
+              {
+                "type": "drug",
+                "drug": "isoniazid",
+                "confers": "resistance"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "lin": "lineage4.8",
+      "tb_pred": 0.18723849372384938,
+      "gmm_pred": 0.27920814499298996,
+      "gmm_UB": 0.3370899934590949,
+      "gmm_LB": 0.221326296526885,
+      "DR_pred": []
+    }
+  ],
+  "Unknown50-50DR": []
+}
