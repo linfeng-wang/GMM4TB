@@ -89,7 +89,7 @@ Example output file: `Genomic_data_analysis/Executable/gmm_model_tbp/cache/stand
 Exampe output graphics:`Executable/gmm_model_tbp/cache/stand_alone_test_out_gmm_fig.png`
 
 ## Model function
-![model_funciton](img/gmm_process.png)
+![model_funciton](cache/gmm_process.png)
 
 The Gaussian Mixture Models (GMMs) can accommodate any number of mixtures through the 'multi' option. The results for each sample encompass various parameters, such as the count of mixtures, their attributes (mean and standard deviation (SD)), confidence intervals around the mixtures (±1 SD from the mean), and the proportions in which they are mixed. Each Single Nucleotide Polymorphism (SNP) is allocated within these Gaussian distributions, allowing for deductions about the assigned strain (component) and its associated confidence, typically represented as a probability. This process aids in the identification of individual strains and their corresponding drug resistance patterns.
 
