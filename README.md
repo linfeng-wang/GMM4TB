@@ -2,7 +2,7 @@
 LONDONSCHOOL OF HYGIENE AND TROPICAL MEDICINE
 
 Multi-strain infection model
-Models for strain calling and drug resistance profiling
+Model for strain calling and drug resistance profiling
 
 ## Model introduction
 **Mixed-strain infection in tuberculosis** (TB) is a fascinating and complex phenomenon that challenges our understanding of this ancient disease. Unlike single-strain infections, where a patient harbors a single type of TB bacterium, mixed-strain infections involve the coexistence of multiple distinct strains of the Mycobacterium tuberculosis bacteria within the same host. These strains can vary in their genetic makeup, drug susceptibility, and virulence, potentially leading to diverse clinical outcomes. Studying mixed-strain infections not only sheds light on TB's genetic diversity but also has significant implications for diagnosis, treatment, and control efforts, making it a critical area of research in the fight against this global health threat.
@@ -23,7 +23,7 @@ required package:
 - pandas
 - plotly
   
-Python 3.10.0  
+Python 3.10
 
 **How to run in terminal:**
 Download `Executable/gmm_model_tbp` folder and install above packages. Then run the following command in terminal:
@@ -108,3 +108,6 @@ Script used to create in silico artifical Multi-strain infection sample order of
 
 <h3>in silico aritifical created testing sample</h3>
 Some artifically generated mixture sample. Can be used as example file for running model
+
+## Publication
+•Wang, L., Campino, S., Phelan, J., & Clark, T. G. (2023). Mixed infections in genotypic drug-resistant Mycobacterium tuberculosis. Scientific Reports, 13(17100). https://doi.org/10.1038/s41598-023-44341-x
